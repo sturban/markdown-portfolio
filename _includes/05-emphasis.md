@@ -2,6 +2,7 @@
 _This will also be italic_
 
 **korn shell**
-__This will also be bold__
+__Bash__
 
 _You **can** combine them_
+:sparkles: :heart:
