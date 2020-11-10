@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Animation of Hula-cat](https://octodex.github.com/images/hula_loop_octodex03.gif)
