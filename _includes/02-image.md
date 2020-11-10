@@ -1,0 +1,1 @@
+![Animation of Hula-cat](https://octodex.github.com/images/hula_loop_octodex03.gif)
